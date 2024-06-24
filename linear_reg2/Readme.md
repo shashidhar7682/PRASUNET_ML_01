@@ -1,6 +1,6 @@
 # House Price Prediction 
 
-Using 3 basic features Ground Floor Area, Number Of Bedrooms and Bathrooms (in ground floor)
+Using Feature Engineering to for Total Number of Bedrooms and Total Area
 
 
 ## Table of Contents
@@ -15,7 +15,7 @@ Using 3 basic features Ground Floor Area, Number Of Bedrooms and Bathrooms (in g
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/shashidhar7682/PRASUNET_ML_01.git
     ```
 
 2. Install the required dependencies:
