@@ -15,4 +15,4 @@ This readme provides information about predicting house prices using linear regr
 
 ## Readme 2
 
-- [Linear-reg-readme 2](linear_reg2/Readme_2.md): Linear Regression Using Feature Engineering to for Total Number of Bedrooms and Total Area.
+- [Linear-reg-readme 2](linear_reg2/Readme.md): Linear Regression Using Feature Engineering to for Total Number of Bedrooms and Total Area.
